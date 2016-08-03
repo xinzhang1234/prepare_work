@@ -4,6 +4,7 @@
  * For example, given the range [5, 7], you should return 4.*
  */
 
+/*find the first common prefix of m and n in binary*/
 public:
     int rangeBitwiseAnd(int m, int n) {
         if (m == n)
